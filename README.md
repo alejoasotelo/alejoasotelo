@@ -1,1 +1,1 @@
-![Alejo Sotelo's GitHub stats](https://github-readme-stats-alejoasotelo.vercel.app/api?username=alejoasotelo&show_icons=true&theme=dracula&include_all_commits=1&locale=es&count_private=true)
+<img decoding="async" loading="lazy" align="center" alt="Alejo Sotelo's GitHub stats" src="https://github-readme-stats-alejoasotelo.vercel.app/api?username=alejoasotelo&show_icons=true&theme=dracula&include_all_commits=1&locale=es&count_private=true" />
