@@ -5,4 +5,4 @@
 
 Realicé la certificación del \<dev\>program 🧑‍💻 para desarrolladores de MercadoPago y me sumé al programa para poder realizar integraciones con la aprobación de MercadoPago🤙
 
-👉<a href="https://www.mercadopago.com.ar/developers/panel/certification/cert_4a9497c15ceb11ecab0e0242ac130004" title="Ver certíficado de desarrollador MercadoPago - Alejo Sotelo">Ver certíficado</a>👈
+👉<a href="https://www.mercadopago.com.ar/developers/panel/developer-program/certification/cert_4a9497c15ceb11ecab0e0242ac130004" target="_blank" title="Ver certíficado de desarrollador MercadoPago - Alejo Sotelo">Ver certíficado</a>👈
